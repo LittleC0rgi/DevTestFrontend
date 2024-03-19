@@ -1,0 +1,8 @@
+{
+  "trailingComma": "all",
+  "tabWidth": 2,
+  "semi": true,
+  "quoteProps": "preserve",
+  "arrowParens": "always",
+  "singleAttributePerLine": true
+}
