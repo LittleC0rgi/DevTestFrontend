@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Тестовое задание для Junior разработчика
 
-## Getting Started
+## Задача
 
-First, run the development server:
+Твоя задача - создать небольшое приложение, работающее с API. Это отличная возможность показать твои навыки в работе с сетевыми запросами, фронтендом и базовыми принципами разработки.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Шаги выполнения
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. Сделай форк данного репозитория. Убедись, что твой репозиторий открыт, чтобы мы могли ознакомиться с твоей работой.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+2. Ознакомься с документацией и возможностями тестового API по адресу: [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/). Это публичный тестовый сервис, предоставляющий тестовые данные для разработки.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+3. Используя предоставленное API, разработай следующие функциональные части приложения:
+   - **Страница постов**: страница, отображающая список всех постов. Для каждого поста должны быть видны его заголовок и краткое содержание (например, первые 100 символов тела поста).
+   - **Страница отдельного поста**: при клике на пост из списка, пользователь должен переходить на страницу этого поста, где отображается его полный текст.
 
-## Learn More
+## Технические требования
 
-To learn more about Next.js, take a look at the following resources:
+- Код должен быть чистым, хорошо структурированным и легко читаемым.
+- UI/UX дизайн приложения остается на твое усмотрение, но должен быть приятным и удобным для пользователя.
+- Приложение должно быть адаптивным и корректно отображаться на различных устройствах.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Как сдать задание
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Когда ты закончишь, убедись, что твой форкнутый репозиторий открыт, и отправь нам ссылку на него. Мы ознакомимся с твоей работой и свяжемся с тобой для обратной связи.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Успехов!)
